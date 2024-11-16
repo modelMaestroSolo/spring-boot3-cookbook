@@ -1,4 +1,4 @@
-package com.packt.football.model;
+package com.packt.football.models;
 
 import java.time.LocalDate;
 

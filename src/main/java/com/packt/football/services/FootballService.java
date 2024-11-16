@@ -2,7 +2,7 @@ package com.packt.football.services;
 
 import com.packt.football.exceptions.AlreadyExistsException;
 import com.packt.football.exceptions.NotFoundException;
-import com.packt.football.model.Player;
+import com.packt.football.models.Player;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
